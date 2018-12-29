@@ -12,7 +12,6 @@ BuildRequires: git cmake
 BuildRequires: gcc
 BuildRequires: gcc-c++ libstdc++-static
 BuildRequires: clang
-BuildRequires: llvm%{ver_major_minor}-devel llvm%{ver_major_minor}-static 
 BuildRequires: glibc-devel     
 BuildRequires: glibc
 BuildRequires: zlib-devel
